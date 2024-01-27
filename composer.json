@@ -6,15 +6,19 @@
   "require": {
     "cweagans/composer-patches": "^1.7",
     "drupal/admin_toolbar" : "^3.3",
+    "drupal/allowed_formats": "^3.0",
     "drupal/ckeditor": "^1.0",
     "drupal/environment_indicator": "^4.0",
+    "drupal/field_group": "^3.4",
     "drupal/google_tag": "^2.0",
     "drupal/linkit": "^6.0",
     "drupal/metatag": "^2.0",
     "drupal/pathauto": "^1.11",
     "drupal/redirect": "^1.0",
+    "drupal/simple_sitemap": "^4.1",
     "drupal/svg_image": "^3.0",
     "drupal/taxonomy_access_fix": "^4.0",
-    "drupal/token": "^1.0"
+    "drupal/token": "^1.0",
+    "drupal/video_embed_field": "^2.5"
   }
 }
